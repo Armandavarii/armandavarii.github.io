@@ -78,14 +78,14 @@
       "date": "2020-08-06",
       "awarder": "Ministry of Science, Research and Technology",
       "url": "https://www.msrt.ir/en",
-      "summary": "Rank 15 out of 10,000 applicants in the Iran college entrance exam for master's program in CE"
+      "summary": "Rank 15 out of 10000 applicants in the Iran college entrance exam for masters program in CE"
     }
   ],
   "certificates": [
     {
       "name": "Introduction to Generative AI",
       "date": "2023-10-18",
-      "issuer": "Google CLoud",
+      "issuer": "Google Cloud",
       "url": "/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course",
       "icon": "fa-solid fa-laptop"
     }
