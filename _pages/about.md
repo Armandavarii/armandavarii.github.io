@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.linkedin.com/in/arman-davari-370a451b3/'>Linkedin</a>. Let's Change the World
 
 profile:
   align: right
