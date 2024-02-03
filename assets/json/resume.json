@@ -44,6 +44,18 @@
       "endDate": "2019-10-22",
       "score": "16.32/20",
       "Thesis": ["Smart environmental advertising in the conference and seminar scenario"]
+    },
+    {
+      "institution": "University of Tehran",
+      "location": "Tehran, Iran",
+      "url": "https://ut.ac.ir/en",
+      "area": "Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2015-09-23",
+      "endDate": "2019-10-22",
+      "score": "15.13/20",
+      "Thesis": ["Distributed Real-Time Monitoring: Using Blockchain for Consensus and Integrity"]
+      "Courses": ["Intelligent Information Retreival", "Modeling and Formal Verification", "Blockchain Theory", "Software Test"]
     }
   ],
   "awards": [
