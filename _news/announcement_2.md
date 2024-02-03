@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: I successfully defended my master's thesis
 date: 2023-09-23 16:11:00-0400
 inline: false
 related_posts: false
