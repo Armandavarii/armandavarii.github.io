@@ -1,24 +1,25 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Arman Davari",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "arman97d@gmail.com",
+    "phone": "",
+    "url": "https://armandavarii.github.io/blog/",
+    "summary": "Computer science graduate from the prestigious University of Tehran, specialized in Distributed Systems and IoT applications. Research
+experience with focus on enhancing IoT security and privacy using blockchain technology. Interested in AI and machine learning field.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2 Farjam st",
+      "postalCode": "1685686416",
+      "city": "Tehran",
+      "countryCode": "IR",
+      "region": "Tehran"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ArmanDavari",
+        "url": "https://www.linkedin.com/in/arman-davari-370a451b3/"
       }
     ]
   },
