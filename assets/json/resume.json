@@ -38,7 +38,7 @@
       "institution": "University of Tehran",
       "location": "Tehran, Iran",
       "url": "https://ut.ac.ir/en",
-      "area": ["Computer Engineering", "Thesis- Smart environmental advertising in the conference and seminar scenario"],
+      "area": "Computer Engineering",
       "studyType": "Bachelors",
       "startDate": "2015-09-23",
       "endDate": "2019-10-22",
@@ -51,11 +51,21 @@
       "url": "https://ut.ac.ir/en",
       "area": "Computer Engineering",
       "studyType": "Master of Science",
-      "startDate": "2015-09-23",
-      "endDate": "2019-10-22",
+      "startDate": "2020-09-23",
+      "endDate": "2023-09-23",
       "score": "15.13/20",
       "Thesis": ["Distributed Real-Time Monitoring: Using Blockchain for Consensus and Integrity"],
       "Courses": ["Intelligent Information Retreival", "Modeling and Formal Verification", "Blockchain Theory", "Software Test"]
+    }
+    ,
+    {
+      "institution": "Malardalen University",
+      "location": "Vasteras, Sweden",
+      "url": "https://www.mdu.se/",
+      "area": "Erasmus program for 1 semester in Computer Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2023-01-16",
+      "endDate": "2023-06-05"
     }
   ],
   "awards": [
