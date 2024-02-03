@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I scored 7.5 on IELTS exam. Listening:7.5 - Reading:9 - Writing:7 - Speaking:7
+I scored 7.5 on IELTS exam.    Listening: 7.5 - Reading: 9 - Writing: 7 - Speaking: 7
