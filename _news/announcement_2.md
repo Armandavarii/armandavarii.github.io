@@ -1,33 +1,28 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2023-09-23 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I successfully defended my master's thesis. 
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I'm thrilled to share that I have successfully defended my dissertation on "Distributed Real-Time Monitoring: Using Blockchain for Consensus and Integrity" and received the highest score - Excellent! 📜
 
-#### Hipster list
+This journey has been both challenging and rewarding, and I couldn't have achieved this milestone without the invaluable guidance and support of my supervisor, Dr. Mehdi Kargahi. Your mentorship has been instrumental in shaping my research and academic journey.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+I'd like to extend my heartfelt gratitude to Dr. Ahmad Khonsari for evaluating my thesis and providing valuable insights that enriched my work. Your expertise and feedback were truly invaluable.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Additionally, I want to express my appreciation to Dr. Marjan Sirjani and Fereidoun Moradi for their assistance and contributions throughout my research journey. Your support has been integral to my success.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Abstract of my Dissertation:
+The explosive growth of Internet of Things (IoT) has brought forth formidable challenges related to data security, privacy, and integrity. This thesis investigates decentralized solutions, with a particular focus on blockchain technology, to effectively tackle these challenges while simultaneously ensuring data freshness and accuracy within distributed sensing environments. 
+The primary objectives of this research are to propose a blockchain system characterized by low process latency, develop smart contracts for creating sensor profiles, and implement data accuracy assessments to fortify data integrity.
+Recognizing the drawbacks of public blockchains, especially in terms of processing times and energy consumption, we have strategically embraced a private blockchain solution, Hyperledger Fabric to ensure suitability for real-time applications. This choice aligns with our vision for decentralized IoT system management, addressing issues like single points of failure, data immutability, trust, and overall security within IoT applications.
+A pivotal aspect of our proposed system is its utilization of sensor profiling, employing Z-Score-based outlier detection methods to enhance data integrity. The ability to detect outlier data holds paramount importance in safety-critical decision-making processes within distributed sensing environments.
+Our thorough analysis reveals that the algorithm we've developed can successfully detect outlier data with an accuracy rate exceeding 90 percent. This achievement, contributes to the integration of data within the transaction flow of the Hyperledger Fabric platform, fosters trust, ensures data integrity, and upholds privacy and security standards.
