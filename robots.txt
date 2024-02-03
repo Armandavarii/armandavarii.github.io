@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://armandavarii.github.io/al-folio/sitemap.xml
+Sitemap: https://armandavarii.github.io/sitemap.xml
