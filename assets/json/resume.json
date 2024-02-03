@@ -90,7 +90,7 @@
       "date": "2023-10-18",
       "issuer": "Google CLoud",
       "url": "/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-laptop"
     }
   ],
   "publications": [
@@ -151,7 +151,7 @@
     },
     {
       "name": "Professor Marjan Sirjani",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-laptop",
       "reference": "Professor at Malardalen University (MDU) - Supervisor during my exchange studies at MDU"
     }
   ],
