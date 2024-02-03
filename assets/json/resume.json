@@ -42,8 +42,7 @@
       "studyType": "Bachelors",
       "startDate": "2015-09-23",
       "endDate": "2019-10-22",
-      "score": "16.32/20",
-      "Thesis": ["Smart environmental advertising in the conference and seminar scenario"]
+      "score": "16.32/20"
     },
     {
       "institution": "University of Tehran",
@@ -54,7 +53,6 @@
       "startDate": "2020-09-23",
       "endDate": "2023-09-23",
       "score": "15.13/20",
-      "Thesis": ["Distributed Real-Time Monitoring: Using Blockchain for Consensus and Integrity"],
       "Courses": ["Intelligent Information Retreival", "Modeling and Formal Verification", "Blockchain Theory", "Software Test"]
     },
     {
