@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Greetings! I am Arman Davari, a passionate computer scientist dedicated to exploring the realms of technology. My academic journey began after I excelled in the Konkur exam, securing a coveted spot at the prestigious University of Tehran in 2014. Fueled by curiosity and ambition, I pursued a Bachelor's degree in Computer Engineering under the guidance of Dr. Zahra Movahedi.
+Greetings! I am Arman Davari, a passionate computer researcher dedicated to exploring the realms of technology. My academic journey began after I excelled in the Konkur exam, securing a coveted spot at the prestigious University of Tehran in 2014. Fueled by curiosity and ambition, I pursued a Bachelor's degree in Computer Engineering under the guidance of Dr. Zahra Movahedi.
 
 During my undergraduate studies, I delved into the fascinating world of sensors and actuators. This exploration culminated in the creation of an innovative indoor positioning system based on Bluetooth beacons for my thesis. This system not only showcased my technical prowess but also demonstrated its practical applications by delivering targeted ad-banners to individuals based on their profiles and locations.
 
